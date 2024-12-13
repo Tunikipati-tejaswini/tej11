@@ -1,0 +1,20 @@
+h1{
+    color: red;
+    background-color: orange;
+    padding: 10px;
+}
+p{
+    background-color: lightgreen;
+    padding: 10px;
+}
+.mall{
+    background-image:url("pushpa.jpg") ;
+    line-height: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#teddy{
+    font-size: 40px;
+    word-spacing: 100px;
+    text-transform: uppercase;
+   
+}

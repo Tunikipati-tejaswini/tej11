@@ -1,0 +1,13 @@
+.box{
+    width: 150px;
+    height: 150px;
+    border: 2px solid blanchedalmond;
+    border-radius: 50%;
+    font-size: 8em;
+    text-align: center;
+
+}
+#box1{
+    background-color: brown;
+}
+#box
